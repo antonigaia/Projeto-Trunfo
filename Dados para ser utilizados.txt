@@ -1,0 +1,17 @@
+estado - Ceara
+codigo - 01
+cidade - Fortaleza
+área - 312353
+pop - 2429000
+PIB - 73000000000
+p turism - 30
+
+---------------------
+
+estado - Amazonia
+codigo - 04
+cidade - Manaus
+área - 11401092
+pop - 2064000
+PIB - 103281000000
+p turism - 35
